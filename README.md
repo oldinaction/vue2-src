@@ -1,6 +1,7 @@
 # Vue
 
-Vue2.6.12 源码解读
+- Vue2.6.12 源码解读
+- [官方仓库](https://github.com/vuejs/vue)
 
 # 外链
 
